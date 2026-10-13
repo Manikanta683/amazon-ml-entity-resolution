@@ -1,0 +1,6 @@
+oracle_blocking_ceiling_F05=0.9746
+actual_tune_F05=0.8805
+classifier_loss=0.0941
+pair_recall_top15=161632/173520=0.9315
+india: oracle_F05=0.9584 recall=62127/69476=0.8942 n=20010
+us: oracle_F05=0.9854 recall=99505/104044=0.9564 n=29990

@@ -1,0 +1,8 @@
+india top-15: oracle_F05=0.9584
+india top-30: oracle_F05=0.9671
+india top-45: oracle_F05=0.9711
+india top-60: oracle_F05=0.9739
+us top-15: oracle_F05=0.9854
+us top-30: oracle_F05=0.9899
+us top-45: oracle_F05=0.9918
+us top-60: oracle_F05=0.9927
